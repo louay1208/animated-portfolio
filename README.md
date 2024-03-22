@@ -1,2 +1,2 @@
-this is a Personal protfolio 
+This is a personal protfolio 
 
